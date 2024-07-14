@@ -33,3 +33,34 @@ This PowerShell script automates the setup of Azure Automation and Update Manage
 
 1. Clone this repository:
 git clone https://github.com/yourusername/azure-automation-setup.git
+
+2. Navigate to the project directory:
+cd azure-automation-setup
+
+## 🚀 Usage
+
+1. Open PowerShell and navigate to the project directory.
+2. Run the script:
+```powershell
+.\AzureAutomationSetup.ps1
+3. Follow the on-screen prompts to set up your Azure environment.
+
+🔧 Functions
+
+Connect-ToAzure: Connects to Azure and sets the context
+Show-MainMenu: Displays the main menu options
+Invoke-Option1: Checks/creates Automation Account and lists Log Analytics Workspaces
+Invoke-Option2: Creates new Log Analytics Workspace and deploys
+Invoke-Option3: Enables Azure Update Management on existing LAW
+Connect-VMsToLAW: Connects VMs to Log Analytics Workspace
+Setup-AzureUpdateManagement: Sets up Azure Update Management
+
+👥 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+<p align="center">
+  Made with ❤️ by g0hst
+</p>
+```
