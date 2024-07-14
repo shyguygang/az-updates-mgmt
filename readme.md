@@ -46,7 +46,7 @@ cd azure-automation-setup
 ```
 3. Follow the on-screen prompts to set up your Azure environment.
 
-##🔧 Functions
+## 🔧 Functions
 
 - Connect-ToAzure: Connects to Azure and sets the context
 - Show-MainMenu: Displays the main menu options
@@ -58,6 +58,7 @@ cd azure-automation-setup
 <p></p>
 - 👥 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+<p></p>
 - 📄 License
 This project is licensed under the GNU License - see the LICENSE file for details.
 
