@@ -62,5 +62,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - 📄 License
 This project is licensed under the GNU License - see the LICENSE file for details.
 
-<p align="center"></p>
-Made with ❤️ by g0hst
+<p></p>
+<p></p>
+<p></p>
+Made with ❤️ by g0hst in 2024
