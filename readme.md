@@ -64,4 +64,4 @@ This project is licensed under the GNU License - see the LICENSE file for detail
 
 ```<p align="center">
   Made with ❤️ by g0hst
-</p>```
+</p>
