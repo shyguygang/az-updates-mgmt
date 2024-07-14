@@ -56,11 +56,12 @@ cd azure-automation-setup
 - Connect-VMsToLAW: Connects VMs to Log Analytics Workspace
 - Setup-AzureUpdateManagement: Sets up Azure Update Management
 
+
 - 👥 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-<br>- 📄 License
+- 📄 License
 This project is licensed under the GNU License - see the LICENSE file for details.
 
-<p align="center">
-  ```Made with ❤️ by g0hst```
-</p>
+```<p align="center">
+  Made with ❤️ by g0hst
+</p>```
