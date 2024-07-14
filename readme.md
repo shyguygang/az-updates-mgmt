@@ -55,13 +55,11 @@ cd azure-automation-setup
 - Invoke-Option3: Enables Azure Update Management on existing LAW
 - Connect-VMsToLAW: Connects VMs to Log Analytics Workspace
 - Setup-AzureUpdateManagement: Sets up Azure Update Management
-
-
+<p></p>
 - 👥 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 - 📄 License
 This project is licensed under the GNU License - see the LICENSE file for details.
 
-```<p align="center">
+```<center>
   Made with ❤️ by g0hst
-</p>
