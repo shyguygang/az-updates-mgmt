@@ -42,7 +42,8 @@ cd azure-automation-setup
 1. Open PowerShell and navigate to the project directory.
 2. Run the script:
 ```powershell
-.\AzureAutomationSetup.ps1
+. \AzureAutomationSetup.ps1
+```
 3. Follow the on-screen prompts to set up your Azure environment.
 
 🔧 Functions
@@ -60,7 +61,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<p align="center">
+<p align="center">```
   Made with ❤️ by g0hst
 </p>
 ```
