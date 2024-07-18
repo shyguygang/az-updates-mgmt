@@ -65,41 +65,42 @@ az deployment group create --resource-group <your-resource-group> --template-fil
 Using Azure PowerShell:
 ```powershell
 New-AzResourceGroupDeployment -ResourceGroupName <your-resource-group> -TemplateFile template.json -TemplateParameterFile parameters.json
+```
 
 2. Verify deployment in the Azure portal.
 
 Using PowerShell Script:
-```.\AzureAutomationSetup.ps1```
+``` .\AzureAutomationSetup.ps1 ```
 
 3. Follow the on-screen prompts to set up your Azure environment.
 
-:wrench: Functions
+## :wrench: Functions
 
-Connect-ToAzure: Connects to Azure and sets the context
-Show-MainMenu: Displays the main menu options
-Invoke-Option1: Checks/creates Automation Account and lists Log Analytics Workspaces
-Invoke-Option2: Creates new Log Analytics Workspace and deploys
-Invoke-Option3: Enables Azure Update Management on existing LAW
-Connect-VMsToLAW: Connects VMs to Log Analytics Workspace
-Setup-AzureUpdateManagement: Sets up Azure Update Management
+- Connect-ToAzure: Connects to Azure and sets the context
+- Show-MainMenu: Displays the main menu options
+- Invoke-Option1: Checks/creates Automation Account and lists Log Analytics Workspaces
+- Invoke-Option2: Creates new Log Analytics Workspace and deploys
+- Invoke-Option3: Enables Azure Update Management on existing LAW
+- Connect-VMsToLAW: Connects VMs to Log Analytics Workspace
+- Setup-AzureUpdateManagement: Sets up Azure Update Management
 
-:package: Resources Created
+## :package: Resources Created
 
 :book: Azure Workbook for Windows Update Summary
 :bell: Action Group for alerts
 :warning: Metric Alerts for update cycles
 :link: Linked service connecting Automation account to Log Analytics workspace
 
-:sos: Troubleshooting
+## :sos: Troubleshooting
 If you encounter any issues during deployment:
 
 1. Check the deployment logs in the Azure portal
 2. Ensure all parameter values are correct
 3. Verify you have the necessary permissions in your Azure subscription
 
-:handshake: Contributing
+## :handshake: Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-:page_with_curl: License
+## :page_with_curl: License
 This project is licensed under the GNU License - see the LICENSE file for details.
 
 :information_source: For more information, please refer to the Azure Automation documentation.
