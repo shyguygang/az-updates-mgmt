@@ -105,4 +105,5 @@ This project is licensed under the GNU License - see the LICENSE file for detail
 
 :information_source: For more information, please refer to the Azure Automation documentation.
 
-made with <3 by g0hst
+## 👤 Author
+(c) g0hst 2022
