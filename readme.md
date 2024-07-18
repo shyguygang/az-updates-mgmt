@@ -48,10 +48,10 @@ This project provides tools to set up Azure Automation Update Management for Win
 ## :floppy_disk: Installation
 
 1. Clone the repository:
-   ```git clone https://github.com/your-repo/azure-automation-update-management.git
-cd azure-automation-update-management```
+   ``` git clone https://github.com/your-repo/azure-automation-update-management.git ```
+   ``` cd azure-automation-update-management ```
 
-2. Modify `parameters.json` with your environment-specific values.
+3. Modify `parameters.json` with your environment-specific values.
 
 ## :rocket: Usage
 
